@@ -57,7 +57,7 @@ func main() {
 # 🛠️ Ferramentas
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,bash" />
+<img src="https://skillicons.dev/icons?i=git,github,linux,geany,bash" />
 </p>
 
 ---
