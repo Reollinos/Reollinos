@@ -30,7 +30,7 @@ type Developer struct {
 func main() {
     renan := Developer{
         Name:      "Renan",
-        Languages: []string{"Go", "Python"},
+        Languages: []string{"Go", "Python", "Rust"},
         Loves: []string{
             "Open Source",
             "Linux",
