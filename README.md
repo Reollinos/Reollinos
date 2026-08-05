@@ -49,7 +49,7 @@ func main() {
 # 🚀 Linguagens
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=go,python" />
+<img src="https://skillicons.dev/icons?i=go,python,rust" />
 </p>
 
 ---
